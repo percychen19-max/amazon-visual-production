@@ -1,0 +1,4 @@
+interface:
+  display_name: "亚马逊商品图制作"
+  short_description: "从产品实拍到商品图方案、实际出图、原图返工和本地交付"
+  default_prompt: "使用 $amazon-visual-production 根据当前 SKU 的资料和实拍完成这次商品图任务。"

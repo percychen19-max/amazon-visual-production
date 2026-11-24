@@ -1,0 +1,12 @@
+# 公共仓库按文件收录。真实商品资料请存放在独立工作目录。
+*
+!*/
+!/.gitignore
+!/README.md
+!/AGENTS.md
+!/requirements.txt
+!/.agents/skills/amazon-visual-production/SKILL.md
+!/.agents/skills/amazon-visual-production/agents/openai.yaml
+!/.agents/skills/amazon-visual-production/scripts/jobs.py
+!/.agents/skills/amazon-visual-production/references/制作卡与模板.md
+!/tests/test_jobs.py
